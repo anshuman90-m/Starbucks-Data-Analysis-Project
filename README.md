@@ -37,25 +37,20 @@ Beverage Prep dropdown
 
 ## Visualizations
 
-Average Calories by Beverage Category (Area Chart).
-
-Starbucks Global Presence by Category (Bar Chart).
-
-Beverage Category Distribution (Donut Chart).
-
-Average Caffeine by Category (Horizontal Bar Chart).
-
-Top 5 Highest Caffeine Beverages (with product images).
-
-Modern Starbucks-branded design with clean layout and high visual appeal.
+-Average Calories by Beverage Category (Area Chart).
+-Starbucks Global Presence by Category (Bar Chart).
+-Beverage Category Distribution (Donut Chart).
+-Average Caffeine by Category (Horizontal Bar Chart).
+-Top 5 Highest Caffeine Beverages (with product images).
+-Modern Starbucks-branded design with clean layout and high visual appeal.
 
 ## ✨Key Insights
 
-Smoothies and Frappuccinos have the highest average calorie content, while plain Coffee has the lowest.
-Brewed Coffee (410 mg) and Caffè Americano (300 mg) are the top caffeine-rich beverages.
-Coffee category shows the strongest global presence, followed by Classic Espresso drinks.
-Average sugar across the analyzed beverages is approximately 81g, and average caffeine is ~33 mg.
-Significant variation exists in nutritional values across beverage categories, highlighting opportunities for healthier alternatives.
+-Smoothies and Frappuccinos have the highest average calorie content, while plain Coffee has the lowest.
+-Brewed Coffee (410 mg) and Caffè Americano (300 mg) are the top caffeine-rich beverages.
+-Coffee category shows the strongest global presence, followed by Classic Espresso drinks.
+-Average sugar across the analyzed beverages is approximately 81g, and average caffeine is ~33 mg.
+-Significant variation exists in nutritional values across beverage categories, highlighting opportunities for healthier alternatives.
 
 ## 📈Business Impact & Problem Solved
 
