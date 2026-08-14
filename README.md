@@ -38,10 +38,15 @@ Beverage Prep dropdown
 ## Visualizations
 
 Average Calories by Beverage Category (Area Chart).
+
 Starbucks Global Presence by Category (Bar Chart).
+
 Beverage Category Distribution (Donut Chart).
+
 Average Caffeine by Category (Horizontal Bar Chart).
+
 Top 5 Highest Caffeine Beverages (with product images).
+
 Modern Starbucks-branded design with clean layout and high visual appeal.
 
 ## ✨Key Insights
