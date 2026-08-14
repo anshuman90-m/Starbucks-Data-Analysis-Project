@@ -27,7 +27,7 @@ Features & Highlights
 
 ---
 
-## 4 Key Performance Indicators (KPIs)
+## 🚀4 Key Performance Indicators (KPIs)
 
 Total Beverages | Average Sugar | Average Calories | Average Caffeine
 
@@ -44,7 +44,7 @@ Average Caffeine by Category (Horizontal Bar Chart)
 Top 5 Highest Caffeine Beverages (with product images)
 Modern Starbucks-branded design with clean layout and high visual appeal
 
-## Key Insights
+## ✨Key Insights
 
 Smoothies and Frappuccinos have the highest average calorie content, while plain Coffee has the lowest.
 Brewed Coffee (410 mg) and Caffè Americano (300 mg) are the top caffeine-rich beverages.
@@ -52,7 +52,7 @@ Coffee category shows the strongest global presence, followed by Classic Espress
 Average sugar across the analyzed beverages is approximately 81g, and average caffeine is ~33 mg.
 Significant variation exists in nutritional values across beverage categories, highlighting opportunities for healthier alternatives.
 
-## Business Impact & Problem Solved
+## 📈Business Impact & Problem Solved
 
 **Problem**:
 Starbucks offers a wide range of beverages with varying nutritional profiles. Without clear visualization, it is difficult for decision-makers to quickly understand calorie, sugar, and caffeine distribution across categories and identify high-impact products.
@@ -66,4 +66,11 @@ Data-backed decisions for menu optimization, healthier product promotion, and cu
 Improved visibility into global product presence and performance
 
 # Dashboard Screenshot 
+
+https://github.com/anshuman90-m/Starbucks-Data-Analysis-Project/blob/main/Screenshot%202026-08-14%20085954.png
+
+## 🙌 Author
+
+Your Name - Anshuman Mahutr
+Aspiring Data Analyst | Power BI | SQL | Python
 
